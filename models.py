@@ -1,6 +1,4 @@
 import sys
-sys.path.insert(0,'/content/gdrive/MyDrive/Comsense_eval')
-
 #from __future__ import absolute_import, division, print_function, unicode_literals
 
 import logging

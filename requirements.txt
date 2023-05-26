@@ -1,0 +1,8 @@
+transformers
+spacy
+gensim==3.8.3
+allennlp==1.2.2
+urllib3==1.25.4
+overrides
+datasets
+nltk

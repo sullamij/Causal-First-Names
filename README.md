@@ -8,3 +8,6 @@ Github Repo for paper:
 ```
 python load_and_perturb_social.py --model_name roberta --perturb_names_by most --test_path <test_dir>
 ```
+
+- `models.py`: defines the customized models used in this task 
+- `data`: directory to store data related to `names`, `processed`, `socialiqa`
